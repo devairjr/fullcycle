@@ -1,0 +1,13 @@
+{
+	"name": "desafio-nginx-node",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": "^5.2.1",
+		"mysql": "^2.18.1",
+		"mysql2": "^3.24.4"
+	}
+}
